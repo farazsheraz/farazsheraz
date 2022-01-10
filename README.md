@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @farazsheraz
-- 👀 I’m interested in .
+<!-- - 👀 I’m interested in  -->
 - 🌱 I’m currently learning react & python 
 - 💞️ I’m looking to collaborate on Data science
 - 📫 How to reach me farazahmed9094@gmail.com
